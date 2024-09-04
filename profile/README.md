@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file tailored for the Tetrifox GitHub organization. It emphasizes Tetrifox’s services, focus areas, and collaborative ethos, while keeping the tone professional yet approachable.
-
----
-
 # 🦊 Welcome to Tetrifox 🦊
 
 Welcome to the official GitHub organization of **Tetrifox**, your trusted partner for **Building, Operating, and Transferring high-performing software engineering teams**. We specialize in technical due diligence, fixed-price engineering capabilities, and scalable, integrated team management. 
