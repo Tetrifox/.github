@@ -1,90 +1,79 @@
-# 🦊 Welcome to Tetrifox 🦊
+# Tetrifox
 
-Welcome to the official GitHub organization of **Tetrifox**, your trusted partner for **Building, Operating, and Transferring high-performing software engineering teams**. We specialize in technical due diligence, fixed-price engineering capabilities, and scalable, integrated team management. 
+**Tetrifox is a product engineering partner that builds modular software development teams, called Minos, for startups, scale-ups and enterprises that need to move from idea to production fast.**
 
----
-
-## Who We Are
-
-At Tetrifox, we build and deliver **custom, high-caliber engineering teams** that help companies scale and solve their most challenging technical problems. Our expertise spans:
-
-- **Technical Due Diligence:** Comprehensive assessments of code quality, architecture, and engineering practices.
-- **Fixed-Price Engineering Capability:** Expert software development teams crafted to fit your needs, with clear pricing for full transparency.
-- **Build-Operate-Transfer (BOT):** We assemble, operate, and then seamlessly transfer teams to you, ensuring a smooth integration with your business.
-
-We work with clients globally to overcome the challenges of remote team management, including timezone differences, language barriers, and cultural alignment.
+This is our GitHub organization. Here you'll find open-source work, tooling and experiments from the Tetrifox engineering teams.
 
 ---
 
-## What We Do on GitHub
+## What we do
 
-Here on GitHub, you’ll find repositories and open-source projects created by the talented engineering teams at Tetrifox. These are designed to showcase our capabilities, contribute to the software community, and accelerate the development of high-quality software solutions.
+| Service | What it is |
+|---|---|
+| **Software Development Teams** | Embedded Minos that combine consultancy, technical leadership and engineering. One unit, fully accountable for outcomes. |
+| **Technical Review** | A structured assessment of a product engineering organization across five dimensions, delivered as one actionable report for leadership teams and investors doing technical due diligence. |
+| **AI Applications** | Production AI in weeks, not quarters. Scope is sized before the build, the timeline is fixed, and costs are tracked per run from day one. |
 
-### Key Areas of Expertise
-- **DevOps and CI/CD Pipelines**
-- **Cloud-Native Applications**
-- **Microservices Architecture**
-- **AI & Machine Learning Integrations**
-- **Full Stack Web Development**
-- **Mobile Application Development**
-- **Automated Testing & QA**
+### What is a Mino?
 
-Our focus on **Agile and DevOps** philosophies means you'll find our repositories to be built with a continuous improvement mindset, following best practices for collaboration, code quality, and scalability.
+A Mino is a modular product engineering team, embedded in your organization as one unit. It is not a group of contractors: it has one accountability, and it changes shape with the problem, not with a contract.
 
----
+Every Mino is built from three layers:
 
-## Repository Structure
+1. **Strategic Consultancy.** Product owners and project managers own the business problem, set priorities and align stakeholders.
+2. **Technical Leadership.** Lead developers, testers and ops engineers own architecture, quality standards and coaching.
+3. **Engineering.** Dev, test, ops and a fourth flexible role (product, UX, data or security) own delivery.
 
-Here’s what you can expect to find in our repositories:
+### JOIST: one shape per focus
 
-### 1. **Public Projects**
-   - **Open-Source Tools**: Software and frameworks developed by Tetrifox engineers.
-   - **DevOps Resources**: Scripts, templates, and automation tools to optimize deployment pipelines.
-   - **AI & ML Integrations**: Code that demonstrates how we integrate machine learning models into scalable solutions.
+We show each Mino's focus with a Tetris shape:
 
-### 2. **Contributions**
-   - We actively contribute to relevant open-source projects, collaborating with the broader software community. 
+- **J-Mino**, ops-enhanced: scale without breaking
+- **O-Mino**, balanced
+- **I-Mino**, dev-heavy: ship the roadmap faster
+- **S-Mino**, strategic unit: set product direction
+- **T-Mino**, test-focused: release with confidence
 
-### 3. **Internal Templates and Starter Kits**
-   - While some of our work is client-specific and confidential, we share selected templates for setting up robust development environments, CI/CD pipelines, and infrastructure as code (IaC).
+### What a Technical Review covers
 
----
-
-## How to Get Involved
-
-We believe in the power of **collaboration and community**. We welcome contributions, feedback, and discussions from everyone—whether you're a client, developer, or just passionate about software engineering.
-
-### Contributing to Our Projects
-Interested in contributing? We'd love to have your support! Here’s how you can get started:
-- **Fork** a repository of interest
-- Make your changes in a feature branch
-- Submit a pull request with a clear description of your changes
-- Our team will review and provide feedback as needed
-
-Be sure to check out our [Contribution Guidelines](CONTRIBUTING.md) for detailed instructions.
-
-### Join the Conversation
-Feel free to open an issue in the relevant repository if you encounter bugs, have feature requests, or wish to ask a question. Our engineers are here to collaborate and learn with you.
+1. Product, Process & Tools
+2. Architecture
+3. Continuous Delivery
+4. Lean Management
+5. Culture & People
 
 ---
 
-## Connect With Us
+## What you'll find here
 
-Want to learn more about Tetrifox, our services, or potential collaborations?
+Most of our work is built inside client organizations and stays private. What we publish here includes:
 
-- **Website:** [www.tetrifox.com](https://www.tetrifox.com)
-- **LinkedIn:** [Tetrifox on LinkedIn](https://www.linkedin.com/company/tetrifox)
-- **Contact Us:** [contact@tetrifox.com](mailto:contact@tetrifox.com)
+- **Open-source tools and libraries** written by our engineers
+- **Templates and starter kits** for CI/CD, infrastructure as code and development environments
+- **Experiments and reference implementations**, including AI integrations
 
----
-
-## License
-
-All open-source projects under the Tetrifox organization are licensed under the [MIT License](LICENSE.md). Feel free to use and adapt the code as per the license conditions.
+We build the way we work for clients: business-first, with continuous delivery, automated testing, and code that the next team can own.
 
 ---
 
-Thank you for visiting our GitHub! We look forward to building something amazing together 🚀
+## Contributing
+
+Issues and pull requests are welcome on any public repository.
+
+1. Open an issue to report a bug, ask a question or propose a change
+2. Fork the repository and work in a feature branch
+3. Open a pull request that clearly describes the change and why it's needed
+
+Each repository's own README and license take precedence.
 
 ---
 
+## Work with us
+
+- **Website:** [tetrifox.com](https://www.tetrifox.com)
+- **Talk to a founder:** [tetrifox.com/contact](https://www.tetrifox.com/contact)
+- **Email:** [info@tetrifox.com](mailto:info@tetrifox.com)
+- **LinkedIn:** [Tetrifox](https://www.linkedin.com/company/tetrifox/)
+- **Careers:** [tetrifox.com/careers](https://www.tetrifox.com/careers)
+
+Tetrifox · Schiekade 34, Rotterdam, the Netherlands
